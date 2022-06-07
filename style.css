@@ -23,6 +23,16 @@
     text-align: center;
 }
 
+img {
+    height: auto;
+    width: 750px;
+}
+
 .listitems{
     text-align: center;
+}
+
+img.food {
+    height: auto;
+    width: 500px;
 }

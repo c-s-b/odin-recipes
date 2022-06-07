@@ -16,7 +16,8 @@
     text-align: center;
     font-weight: bold;
     list-style: none;
-    margin: auto;
+    margin: 0 auto;
+    display: table;
 }
 
 .homeimage {
